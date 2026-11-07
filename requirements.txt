@@ -8,3 +8,6 @@ langchain-text-splitters
 sentence-transformers
 faiss-cpu
 python-dotenv
+streamlit
+google-genai
+pypdf
